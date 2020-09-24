@@ -8,6 +8,6 @@ Repositorio de practicas de la asignatura de despliegue de aplicaciones web
 2. elemento2
 3. elemento3
 
-+pan 
-+con 
-+tortilla 
++ pan 
++ con 
++ tortilla 
